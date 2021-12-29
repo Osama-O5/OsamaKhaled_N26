@@ -41,9 +41,10 @@ OR -- Run every test class individually by click on rigth click on the class nam
 
 Reporting - Allure reports
 ----------------------
-1.From 'PetStore-RestAssured' folder, navigate to 'target' folder from terminal
-2.Run following command -> allure serve allure-results
-3.An Allure report will open in browser with the last run report.
+1. From 'PetStore-RestAssured' folder, navigate to 'target' folder from terminal
+2. Run following command -> ```allure serve allure-results```
+3. An Allure report will open in browser with the last run report.
+
 
 Tools/Tech stack
 ----------------------
