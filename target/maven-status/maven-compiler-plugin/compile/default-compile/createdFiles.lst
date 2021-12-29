@@ -1,0 +1,6 @@
+DataModel\UserPojo.class
+DataModel\PetPojo.class
+DataCreationFromModel\PetDataCreator.class
+DataCreationFromModel\UserDataCreator.class
+DataCreationFromModel\StoreDataCreator.class
+DataModel\StorePojo.class

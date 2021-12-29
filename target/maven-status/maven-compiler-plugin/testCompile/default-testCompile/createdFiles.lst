@@ -1,0 +1,7 @@
+com\petstore\requestApis\UserRequests.class
+com\petstore\tests\PetTest.class
+com\petstore\tests\UserTest.class
+com\petstore\tests\TestBase.class
+com\petstore\requestApis\PetRequests.class
+com\petstore\requestApis\StoreRequests.class
+com\petstore\tests\StoreTest.class
